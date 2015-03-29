@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427616964 source:c:\users\zqying\desktop\stud_info_manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
